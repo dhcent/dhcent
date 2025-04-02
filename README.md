@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhcent
-- 👀 I’m interested in game design and computer science :)
+- 👀 I’m interested in comp sci :)
 - 🌱 I’m currently working on a video game project that I plan to sell on steam! 
 - 💞️ I’m looking to collaborate on my video game project (dm me on disc for more info)
 - 📫 How to reach me: Discord: Rocket#9996
