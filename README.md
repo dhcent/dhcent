@@ -1,6 +1,8 @@
 Hey! I'm Daniel Huang, an incoming Freshman at Duke University looking forward to studying CS and Math! 
 
-Feel free to reach out to me on Discord: @rocket.yskm
+Feel free to reach out to me on:
+Discord: @rocket.yskm
+LinkedIn: https://www.linkedin.com/in/daniel-huang-145563340/
 
 <!---
 dhcent/dhcent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
