@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @dhcent
-- 👀 I’m interested in comp sci :)
-- 🌱 I’m currently working on a video game project that I plan to sell on steam!
-- 📫 How to reach me: Discord: rocket.yskm
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: idk
+Hey! I'm Daniel Huang, an incoming Freshman at Duke University looking forward to studying CS and Math! 
+
+Feel free to reach out to me on Discord: @rocket.yskm
 
 <!---
 dhcent/dhcent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
